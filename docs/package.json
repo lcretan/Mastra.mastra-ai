@@ -101,7 +101,7 @@
     "baseline-browser-mapping": "^2.10.8",
     "jsdom": "^26.1.0",
     "oxfmt": "0.59.0",
-    "postcss": "^8.5.8",
+    "postcss": "^8.5.18",
     "remark-cli": "^12.0.1",
     "remark-gfm": "^4.0.1",
     "tailwind-merge": "^3.5.0",
